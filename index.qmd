@@ -8,3 +8,5 @@ een ding heb ik nooit begrepen
 waarom heeft een zebra strepen
 en geen stippels en geen ruit
 waarom koos hij strepen uit
+
+foo
